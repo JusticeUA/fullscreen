@@ -11,6 +11,3 @@ testWebP(function (support) {
     }
 })
 //
-let colors = {green, yellow, pink}
-colors[1]
-console.log(colors[1]);
